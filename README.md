@@ -8,4 +8,5 @@ The source code is from this youtube tutorial:
 
 I have just added some helper functions to avoid some duplicated code.
 
+Don't forget to starr this repository if you like this project.
 
